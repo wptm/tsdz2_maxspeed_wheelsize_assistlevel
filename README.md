@@ -45,3 +45,8 @@ Part Two, to change default(without display) Assist Level:
 Well, this is a bit a harder. The hexadecimal numbers in the coloured squares are relative jumps to red corner what is starting point for Assist Level 4. Starting point for Assist Level 3 is the blue corner. 0x5d means that there are 93 bytes it should jump to reach red corner. Same logic for 0x42.
 Therefore to jump to blue corner (Assist Level 3) at orange square 0x47 and at purple square 0x2c are needed to put into.
 ![Alt text](assistlevel.png?raw=true)
+
+
+Schematic for how to switch on the motor, so you can use it without display:
+-------------------------
+![Alt text](tsdz2_bluetooth_switch_highlight.JPG?raw=true)
