@@ -1,7 +1,7 @@
 # tsdz2_maxspeed_wheelsize_assistlevel
 How to update your stock firmware to have different factory default Max Speed, Wheel Size and Assist Level
 
-Change in stock firmware is related to following default(without display) values:
+Changes in stock firmware are related to following default(without display) values:
 
 max speed to 45Km/h
 -------------------------
