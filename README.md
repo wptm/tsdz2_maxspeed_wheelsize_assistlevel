@@ -35,5 +35,6 @@ New - jumps to $a84a as default (assist level 3):
 VOAMCA firmware can be updated with this as well. I use it like so. Therefore I switch the motor on with the switch and I can ride my bike immediatelly.
 I only need my mobile with bluetooth connection if I would like to see the Voltage, Watts, Speed, etc.
 
-Part One, to change default(without display) Max Speed and Wheel size:
+Part One, to change default(without display) Max Speed and Wheel Size:
+Put in hexadecimal number format your desired Max Speed (Km/h) into the red square and then your Wheel Size into the green one.
 ![Alt text](maxspeed_wheelsize.png?raw=true)
