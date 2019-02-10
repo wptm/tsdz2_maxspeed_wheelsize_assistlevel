@@ -36,4 +36,4 @@ VOAMCA firmware can be updated with this as well. I use it like so. Therefore I 
 I only need my mobile with bluetooth connection if I would like to see the Voltage, Watts, Speed, etc.
 
 Part One, to change default(without display) Max Speed and Wheel size:
-![Alt text](maxspeed_wheelsize.png?raw=true "maxspeed_wheelsize.png")
+![Alt text](maxspeed_wheelsize.png?raw=true)
