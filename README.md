@@ -32,7 +32,8 @@ New - jumps to $a84a as default (assist level 3):
 	0xa81c:	 20 2c	jra $a84a  (offset=66)
 ```
     
-VOAMCA firmware can be updated as well. I use it like so. Therefore I switch the motor on with the switch and I can ride my bike immediatelly.
+VOAMCA firmware can be updated with this as well. I use it like so. Therefore I switch the motor on with the switch and I can ride my bike immediatelly.
 I only need my mobile with bluetooth connection if I would like to see the Voltage, Watts, Speed, etc.
 
 Part One, to change default(without display) Max Speed and Wheel size:
+![Alt text](maxspeed_wheelsize.png?raw=true "maxspeed_wheelsize.png")
