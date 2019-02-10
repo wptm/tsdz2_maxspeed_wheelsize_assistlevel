@@ -39,3 +39,8 @@ Part One, to change default(without display) Max Speed and Wheel Size:
 -------------------------
 Put in hexadecimal number format your desired Max Speed (Km/h) into the red square and then your Wheel Size (Inch) into the green one.
 ![Alt text](maxspeed_wheelsize.png?raw=true)
+
+Part Two, to change default(without display) Assist Level:
+-------------------------
+Well, this is a bit a harder.
+![Alt text](assistlevel.png?raw=true)
