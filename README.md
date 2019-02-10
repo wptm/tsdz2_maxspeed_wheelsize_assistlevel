@@ -49,4 +49,5 @@ Therefore to jump to blue corner (Assist Level 3) at orange square 0x47 and at p
 
 Schematic for how to switch on the motor, so you can use it without display:
 -------------------------
+Only the red lines are needed for the switch. You can skip the other part as that for the bluetooth module.
 ![Alt text](tsdz2_bluetooth_switch_highlight.JPG?raw=true)
